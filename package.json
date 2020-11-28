@@ -1,0 +1,7 @@
+{
+  "name": "configurator",
+  "version": "1.0.0",
+  "description": "Arbitrary Config Server",
+  "main": "index.js",
+  "license": "MIT"
+}
